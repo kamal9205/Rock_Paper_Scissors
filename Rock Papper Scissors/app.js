@@ -1,5 +1,3 @@
-// Import brain.js if using a module system
-// const brain = require('brain.js');
 
 let userScore = 0;
 let compScore = 0;
